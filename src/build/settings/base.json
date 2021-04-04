@@ -1,0 +1,6 @@
+{
+    "app_name": "PyNotes",
+    "author": "HOUARI Idir",
+    "main_module": "src/main/python/main.py",
+    "version": "1.0.0"
+}
